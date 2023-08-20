@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/InMag V.16/bin/Debug
+/InMag V.16/obj/x86/Debug
+/.vs/InMag V.16/v14/.suo
